@@ -271,13 +271,6 @@ By providing a standardized way for AI models to interact with both local and re
 
 ## Star History
 
-<a href="https://star-history.com/#TrueHaiq/awesome-mcp&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date" />
- </picture>
-</a>
-
-<br />
+[![Star History Chart](https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date)](https://www.star-history.com/#TrueHaiq/awesome-mcp&Date)
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
