@@ -24,6 +24,12 @@ By providing a standardized way for AI models to interact with both local and re
 - 📱 Application services
 - And much more...
 
+### Local 🏠 vs Cloud ☁️ ?
+
+- **Use Local** when the MCP server communicates with software installed locally on the system. For example, interacting with the Chrome browser or accessing files on your computer.
+
+- **Use Cloud** when the MCP server connects to remote services or APIs. For instance, querying a database hosted on a cloud server or fetching data from an external API like a social media platform or a stock market feed.
+
 ## About this repo
 
 This repository serves as a comprehensive, community-curated index of Model Context Protocol (MCP) servers and tools. Our goal is to help developers, AI enthusiasts, and organizations discover and leverage the growing ecosystem of MCP integrations.
@@ -36,12 +42,6 @@ Key features:
 - 🤝 Active community of contributors and maintainers
 
 Each listed server is carefully reviewed to ensure it provides value to the MCP ecosystem. While this is a community-driven list, we work closely with official implementations (like those from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)) along with high-quality community-contributed servers that extend AI capabilities in meaningful ways.
-
-### Local 🏠 vs Cloud ☁️ ?
-
-- **Use Local** when the MCP server communicates with software installed locally on the system. For example, interacting with the Chrome browser or accessing files on your computer.
-
-- **Use Cloud** when the MCP server connects to remote services or APIs. For instance, querying a database hosted on a cloud server or fetching data from an external API like a social media platform or a stock market feed.
 
 ## MCP Servers List
 
