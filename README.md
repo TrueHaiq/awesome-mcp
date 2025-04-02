@@ -11,6 +11,19 @@ A comprehensive collection of Model Context Protocol (MCP) servers, empowering A
 
 </div>
 
+## What is MCP?
+
+In essence, **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** is a protocol designed to make LLMs more powerful by simplifying their integration with external tools and services. Instead of manually connecting different APIs and tools, MCP serves as a unified layer that simplifies the process, making LLMs more capable and scalable.
+
+By providing a standardized way for AI models to interact with both local and remote services, MCP enables seamless integration with:
+
+- 🔐 Secure file system access
+- 📊 Database connections
+- 🌐 API integrations
+- 🛠️ Development tools
+- 📱 Application services
+- And much more...
+
 ## About this repo
 
 This repository serves as a comprehensive, community-curated index of Model Context Protocol (MCP) servers and tools. Our goal is to help developers, AI enthusiasts, and organizations discover and leverage the growing ecosystem of MCP integrations.
@@ -23,19 +36,6 @@ Key features:
 - 🤝 Active community of contributors and maintainers
 
 Each listed server is carefully reviewed to ensure it provides value to the MCP ecosystem. While this is a community-driven list, we work closely with official implementations (like those from [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)) along with high-quality community-contributed servers that extend AI capabilities in meaningful ways.
-
-## What is MCP?
-
-In essence, **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** is a protocol designed to make LLMs more powerful by simplifying their integration with external tools and services. Instead of manually connecting different APIs and tools, MCP serves as a unified layer that simplifies the process, making LLMs more capable and scalable.
-
-By providing a standardized way for AI models to interact with both local and remote services, MCP enables seamless integration with:
-
-- 🔐 Secure file system access
-- 📊 Database connections
-- 🌐 API integrations
-- 🛠️ Development tools
-- 📱 Application services
-- And much more as you'll see in this repo...
 
 ### Local 🏠 vs Cloud ☁️ ?
 
@@ -284,13 +284,6 @@ By providing a standardized way for AI models to interact with both local and re
 
 ## Star History
 
-<a href="https://star-history.com/#TrueHaiq/awesome-mcp&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date" />
- </picture>
-</a>
-
-<br />
+[![Star History Chart](https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date)](https://www.star-history.com/#TrueHaiq/awesome-mcp&Date)
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
