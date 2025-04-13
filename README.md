@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Banner" style="border-radius: 12px;" />
+<img src="assets/banner.png" alt="Banner" />
 
-</br>
+---
 
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
