@@ -83,7 +83,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="14"/> [BigQuery](https://github.com/LucasHild/mcp-server-bigquery)<sup><sup>1</sup></sup> - BigQuery database integration with schema inspection and query capabilities
 - <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="14"/> [BigQuery](https://github.com/ergut/mcp-bigquery-server)<sup><sup>2</sup></sup> - A BigQuery MCP server for read-only SQL queries and schema exploration (available on npm)
 - <img src="https://cdn.simpleicons.org/airtable" height="14"/> [Airtable](https://github.com/domdomegg/airtable-mcp-server) - Read and write access to Airtable databases, with schema inspection.
-
+- <img src="https://cdn.nocodb.com/marketing-site/20250415053205/images/favicon.png" height="14"/> [NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server) - Nocodb database integration, read and write capabilities
 <br />
 
 ### 🌍 <a name="web-automation"></a>Web Automation
