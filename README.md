@@ -215,6 +215,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://731523176-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaVUBXRZbpAgtjYf5HsvO%2Fuploads%2FaRRrVVocXCTr6GkepfCx%2Flogo_color.svg?alt=media&token=3ba24089-0ab2-421f-a9d9-41f2f94f954a" height="14"/> [Armor Crypto MCP](https://github.com/armorwallet/armor-crypto-mcp)<sup><sup>⭐</sup></sup> - MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
