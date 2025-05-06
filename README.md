@@ -274,6 +274,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/strowk/mcp-k8s-go) - Kubernetes cluster operations through MCP
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/120px-Microsoft_Entra_ID_color_icon.svg.png" height="14"/> [Microsoft Entra ID](https://github.com/hieuttmmo/entraid-mcp-server) - A MCP server for interacting with EntraID through Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, privileged users and more.
 
 <br />
 
