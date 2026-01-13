@@ -235,6 +235,11 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Integration with AI and machine learning services.
 
+- <img src="https://docs.praison.ai/images/praisonai-logo.png" height="14"/> [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) - AI Agents framework with 64+ built-in MCP tools for search, memory, workflows, code execution ☁️ 🏠
+- <img src="https://docs.praison.ai/images/praisonai-logo.png" height="14"/> [PraisonAI](https://github.com/MervinPraison/praisonai-mcp) - AI Agents framework with 64+ built-in MCP tools for search, memory, workflows ☁️ 🏠
+
+> Integration with AI and machine learning services.
+
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
 - <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
