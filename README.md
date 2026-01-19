@@ -235,6 +235,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Integration with AI and machine learning services.
 
+- <img src="https://arvo.guru/favicon.ico" height="14"/> [Arvo](https://github.com/khaoss85/arvo-mcp) - AI workout coach MCP server. Access training data, workout history, personal records, body progress, and 29 fitness tools through Claude Desktop.
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
 - <img src="https://cdn.simpleicons.org/openai/00A67E" height="14"/> [OpenAI Compatible Chat](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with models from OpenAI-compatible APIs (Perplexity, Groq, xAI, etc.)
 - <img src="https://cdn.simpleicons.org/perplexity" height="14"/> [Perplexity](https://github.com/tanigami/mcp-server-perplexity) Chat with Perplexity via MCP
