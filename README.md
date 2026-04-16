@@ -66,6 +66,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - 💬 - [Communication](#communication)
 - ☁️ - [Cloud Storage](#cloud-storage)
 - ⚡ - [Cloud Platforms](#cloud-platforms)
+- 💼 - [Career & Recruiting](#career-recruiting)
 
 <br />
 
@@ -275,6 +276,14 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/strowk/mcp-k8s-go) - Kubernetes cluster operations through MCP
+
+<br />
+
+### 💼 <a name="career-recruiting"></a>Career & Recruiting
+
+> Tools for resume management, job search, and career development.
+
+- <img src="https://rezi.ai/favicon.ico" height="14"/> [Rezi MCP](https://github.com/rezi-io/rezi-mcp)<sup><sup>⭐</sup></sup> - Rezi MCP lets supported AI clients connect to your Rezi account so they can read your resumes, update them, and look up jobs while helping you tailor an application.
 
 <br />
 
