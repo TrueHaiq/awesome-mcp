@@ -286,6 +286,11 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 <br />
 
 ## Star History
+### 🔒 <a name="security"></a>Security
+
+- <img src="https://cdn.simpleicons.org/npm/CB3837" height="14"/> [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent)<sup><sup>npm: enigmagent-mcp</sup></sup> - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
+
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=TrueHaiq/awesome-mcp&type=Date)](https://www.star-history.com/#TrueHaiq/awesome-mcp&Date)
 
