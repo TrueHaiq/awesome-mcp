@@ -242,6 +242,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://huggingface.co/favicon.ico" height="14"/> [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more.
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) - Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml) - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
+- <img src="https://runapi.ai/favicon.ico" height="14"/> [RunAPI](https://github.com/runapi-ai/mcp) - Model discovery and AI image, video, music/audio, text-to-speech, and LLM jobs via RunAPI.
 
 <br />
 
