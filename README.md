@@ -229,6 +229,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
+- <img src="https://unifapi.com/unif.png" height="14"/> [UnifAPI](https://github.com/unifapi-agent/unifapi-mcp-server) - Hosted public-data MCP server for social, search, scrape, news, creator research, and KOL pricing workflows.
 
 <br />
 
