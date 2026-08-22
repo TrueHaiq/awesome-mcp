@@ -147,6 +147,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
+- <img src="https://github.com/RevList.png" height="14"/> [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Search, quote, and browse luxury, exotic, and EV rentals from independent hosts. Location autocomplete, availability, and airport or venue delivery. Remote Streamable HTTP (no auth).
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
 
 <br />
