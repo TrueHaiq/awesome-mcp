@@ -179,6 +179,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 > Integration with workflow automation platforms allows AI models to execute workflows and retrieve data back to their systems.
 
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
+- <img src="https://linkedapi.io/favicon.ico" height="14"/> [Make](https://github.com/Linked-API/linkedapi-mcp)<sup><sup>⭐</sup></sup> - MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data.
 
 <br />
 
