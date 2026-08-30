@@ -161,6 +161,8 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://www.svgrepo.com/show/475634/amazon-color.svg" height="14"/> [Amazon Product Advertising](https://github.com/jademind/mcp-amazon-paapi) - Wraps Amazon’s Product Advertising API 5.0, providing keyword search and ASIN lookup endpoints that return products with your Associate partner-tagged URLs.
 
 <br />
+- <img src="https://cdn.simpleicons.org/google/4285F4" height="14"/> [toprank](https://github.com/nowork-studio/toprank) - Open-source SEO & Google Ads plugin for Claude Code. Connects Google Search Console, PageSpeed Insights, and Google Ads API for meta tag rewrites, schema markup, keyword bids, and CMS content pushes.
+
 
 ### 🔄 <a name="version-control"></a>Version Control
 
