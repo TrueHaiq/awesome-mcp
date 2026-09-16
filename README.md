@@ -231,6 +231,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
 
 <br />
+- ☁️ [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: https://statsnet.co/mcp
 
 ### 🤖 <a name="ai-services"></a>AI Services
 
