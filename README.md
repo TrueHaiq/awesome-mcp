@@ -134,6 +134,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
 
+- <img src="https://github.com/louis030195.png" alt="Hyperconsciousness maintainer" height="14"/> [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted knowledge store with MCP note search and retrieval through scoped, expiring grants.
 - <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)<sup><sup>1</sup></sup> - Obsidian vault integration with tools for file management, search, and content manipulation
 - <img src="https://cdn.simpleicons.org/obsidian/7C3AED" height="14"/> [Obsidian](https://github.com/calclavia/mcp-obsidian)<sup><sup>2</sup></sup> - Alternative implementation for reading and searching Markdown notes
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp)<sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
