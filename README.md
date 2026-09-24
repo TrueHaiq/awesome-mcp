@@ -218,6 +218,9 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 > Financial data and cryptocurrency information services.
 
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
+- <img src="https://cdn.simpleicons.org/invoices/4CAF50" height="14"/> [Invoice](https://mcp.zovo.one/mcp/invoice) - Generate and manage invoices for AI agents
+- <img src="https://cdn.simpleicons.org/buymeacoffee/5F4D94" height="14"/> [Price Tracker](https://mcp.zovo.one/mcp/price-tracker) - Track product price changes and set drop alerts for AI agents
+- <img src="https://cdn.simpleicons.org/chatbot/00897B" height="14"/> [Quotes](https://mcp.zovo.one/mcp/quotes) - Retrieve and manage quotations/business quotes for AI agents
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 
