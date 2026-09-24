@@ -109,6 +109,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
+- <img src="https://avatars.githubusercontent.com/vostride?s=32" height="14"/> [Agent QA](https://github.com/vostride/agent-qa) - MCP server for authoring, running, and inspecting natural-language web and mobile application tests.
 - <img src="https://www.svgrepo.com/show/107853/uranus.svg" height="14"/> [CentralMind/Gateway](https://github.com/centralmind/gateway) - MCP and MCP SSE Server that automatically generate production ready API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - <img src="https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png" height="14"/> [OpenRPC](https://github.com/shanejonas/openrpc-mpc-server) - A Model Context Protocol server that provides JSON-RPC functionality through OpenRPC.
 - <img src="https://cdn.simpleicons.org/postman" height="14" /> [Postman](https://github.com/delano/postman-mcp-server) - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/).
