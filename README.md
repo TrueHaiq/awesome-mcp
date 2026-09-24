@@ -276,6 +276,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="14"/> [Cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/strowk/mcp-k8s-go) - Kubernetes cluster operations through MCP
+- <img src="https://avatars.githubusercontent.com/u/29578415" height="14"/> [Kleap](https://github.com/kleaphq/cli)<sup><sup>⭐</sup></sup> - Create, edit, publish and host real websites and web apps from an AI agent, with domain connection and a verified-live check after each publish. Remote (`https://kleap.co/api/mcp`, OAuth) or local via `npx -y kleap-cli`.
 
 <br />
 
