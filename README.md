@@ -139,6 +139,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp)<sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server)<sup><sup>2</sup></sup> - Alternative implementation for Notion API integration
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
+- <img src="https://contextstream.io/favicon.ico" height="14"/> [ContextStream](https://contextstream.io) - Shared project context for AI agents across Cursor, Claude Code, Codex, Grok, and other MCP clients. Hosted MCP at `io.contextstream/mcp`. [Benchmarks](https://contextstream.io/benchmarks)
 
 <br />
 
