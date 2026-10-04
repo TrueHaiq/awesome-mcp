@@ -148,6 +148,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
 - <img src="https://www.qgis.org/styleguide/visual/qgis-logo.svg" height="14"/> [QGIS](https://github.com/jjsantos01/qgis_mcp) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.
+- <img src="https://raw.githubusercontent.com/sky-access/skyaccess-mcp/main/assets/icon.png" height="14"/> [SkyAccess](https://github.com/sky-access/skyaccess-mcp)<sup><sup>⭐</sup></sup> - Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.
 
 <br />
 
