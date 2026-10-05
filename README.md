@@ -155,6 +155,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Tools that help marketers write better content and run better campaigns.
 
+- [BuyWhere](https://github.com/BuyWhere/buywhere-mcp) - Remote MCP server for shopping and product discovery (live catalogs, price compare). Site: https://buywhere.ai MCP: https://api.buywhere.ai/mcp Docs: https://docs.buywhere.ai
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://avatars.githubusercontent.com/u/201139838" height="14"/> [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
