@@ -229,6 +229,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
+- <img src="https://dchub.cloud/icons/dchub-logo.svg" height="14"/> [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. Hosted remote server at `https://dchub.cloud/mcp` (94 tools); the MIT-licensed repository holds the server manifest and docs, not the hosted backend.
 
 <br />
 
