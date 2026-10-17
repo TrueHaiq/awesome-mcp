@@ -102,6 +102,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://playwright.dev/img/playwright-logo.svg" height="14"/> [Playwright](https://github.com/executeautomation/mcp-playwright) - A Model Context Protocol server that provides browser automation capabilities using Playwright.
 - <img src="https://cdn.simpleicons.org/searxng" height="14"/> [Websearch](https://github.com/mnhlt/WebSearch-MCP) - Self-hosted Websearch service.
+- <img src="https://curlshot.com/favicon.ico" height="14"/> [CurlShot](https://github.com/SergiuPogor/curlshot-mcp) - Hosted MCP server that takes screenshots of any web page as PNG, JPEG, WebP, PDF or a scrolling video (free tier)
 
 <br />
 
