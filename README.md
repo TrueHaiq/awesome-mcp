@@ -258,6 +258,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- <img src="https://server.quibbly.co/icon-512.png" height="14"/> [Quibbly (LinkedIn MCP)](https://github.com/Scriptify-Inc/linkedin-mcp)<sup><sup>⭐</sup></sup> - Hosted LinkedIn inbox server: read conversations and connections, see who watched your videos, set follow-ups and notes, and draft replies that wait in Quibbly until you click Send. Never sends on its own.
 - <img src="https://cdn.simpleicons.org/slack/E01E5A" height="14"/> [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Slack workspace integration for channel management and messaging
 
 <br />
