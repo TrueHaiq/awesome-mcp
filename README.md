@@ -217,6 +217,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://github.com/nuanu-ai.png" height="14"/> [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)<sup><sup>⭐</sup></sup> - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
