@@ -116,6 +116,8 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
 - <img src="https://www.comet.com/favicon.ico" height="14" /> [Comet Opik](https://github.com/comet-ml/opik-mcp)<sup><sup>⭐</sup></sup> - Query and interact with LLM observability and telemetry captured by [Opik](https://github.com/comet-ml/opik) using natural language.
 - <img src="https://vscode.dev/static/stable/favicon.ico" height="14" /> [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - Connect to VSCode ide and allows using semantic tools like `find_usages`
+- <img src="https://github.com/mybolide.png" height="14" /> [mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) - Spec-driven development workflow with resumable plans and a converge gate that requires spec, test and review evidence before a task can close.
+- <img src="https://github.com/mybolide.png" height="14" /> [Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp) - Desktop MCP workspace (Rust + Tauri 2) for file edits, command and test execution, Git status, and resumable history sessions.
 
 <br />
 
