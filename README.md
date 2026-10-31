@@ -139,6 +139,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/danhilse/notion_mcp)<sup><sup>1</sup></sup> - Notion API integration for managing personal todo lists and notes
 - <img src="https://cdn.simpleicons.org/notion/787878" height="14"/> [Notion](https://github.com/suekou/mcp-notion-server)<sup><sup>2</sup></sup> - Alternative implementation for Notion API integration
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
+- <img src="https://www.taskade.com/static_images/brand/taskade-favicon-2026-10-27.svg" height="14"/> [Taskade](https://github.com/taskade/mcp) - Official Taskade MCP server for workspace projects, tasks, and AI agents. Docs: [taskade.com/docs/mcp](https://www.taskade.com/docs/mcp).
 
 <br />
 
