@@ -60,6 +60,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - 📱 - [Social Media](#social-media)
 - 🎮 - [Gaming](#gaming)
 - 💹 - [Finance](#finance)
+- 💼 - [Jobs & Career](#jobs-career)
 - 🧬 - [Research & Data](#research-data)
 - 🤖 - [AI Services](#ai-services)
 - 📈 - [Data Visualization](#data-visualization)
@@ -220,6 +221,15 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
+
+<br />
+
+
+### 💼 <a name="jobs-career"></a>Jobs & Career
+
+> Search live job postings, company hiring data, and career-market tools.
+
+- <img src="https://jobspipe.dev/favicon.ico" height="14"/> [JobsPipe](https://github.com/jobspipe/mcp)<sup><sup>⭐</sup></sup> - Hosted MCP for live job postings from 30+ ATS feeds and job boards (`https://mcp.jobspipe.dev/mcp`); docs at https://docs.jobspipe.dev/ai-agents/mcp
 
 <br />
 
