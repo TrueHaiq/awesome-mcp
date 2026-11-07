@@ -159,6 +159,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
 - <img src="https://avatars.githubusercontent.com/u/201139838" height="14"/> [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - <img src="https://www.svgrepo.com/show/475634/amazon-color.svg" height="14"/> [Amazon Product Advertising](https://github.com/jademind/mcp-amazon-paapi) - Wraps Amazon’s Product Advertising API 5.0, providing keyword search and ASIN lookup endpoints that return products with your Associate partner-tagged URLs.
+- <img src="https://raw.githubusercontent.com/softdevfz/clickwise-api/main/assets/icon.png" height="14"/> [Clickwise](<https://partners.clickwise.net/developers/>) - Affiliate programs, deals and tracked links, plus product search by text or GTIN.
 
 <br />
 
