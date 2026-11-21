@@ -100,6 +100,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/800px-Vector_search_icon.svg.png" height="14"/> [Search1API](https://github.com/fatwang2/search1api-mcp) - Search via search1api (requires paid API key)
 - <img src="https://tavily.com/favicon.ico" height="14"/> [Tavily](https://github.com/Tomatio13/mcp-server-tavily) - Tavily AI search API integration
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
+- <img src="https://persqo.com/icon.svg" height="14"/> [Persqo](https://github.com/YaakovTzedek/persqo-mcp)<sup><sup>⭐</sup></sup> - Official MCP server that runs AI persona tests on a web app and returns prioritized findings and fix prompts
 - <img src="https://playwright.dev/img/playwright-logo.svg" height="14"/> [Playwright](https://github.com/executeautomation/mcp-playwright) - A Model Context Protocol server that provides browser automation capabilities using Playwright.
 - <img src="https://cdn.simpleicons.org/searxng" height="14"/> [Websearch](https://github.com/mnhlt/WebSearch-MCP) - Self-hosted Websearch service.
 
