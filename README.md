@@ -101,6 +101,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 - <img src="https://tavily.com/favicon.ico" height="14"/> [Tavily](https://github.com/Tomatio13/mcp-server-tavily) - Tavily AI search API integration
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://playwright.dev/img/playwright-logo.svg" height="14"/> [Playwright](https://github.com/executeautomation/mcp-playwright) - A Model Context Protocol server that provides browser automation capabilities using Playwright.
+- <img src="https://geekflare.com/favicon.ico" height="14"/> [Geekflare](https://github.com/geekflare/geekflare-api-mcp)<sup><sup>⭐</sup></sup> - Web scraping, web and Google SERP search, site crawling and screenshots through the Geekflare API
 - <img src="https://cdn.simpleicons.org/searxng" height="14"/> [Websearch](https://github.com/mnhlt/WebSearch-MCP) - Self-hosted Websearch service.
 
 <br />
